@@ -16,7 +16,7 @@ The following descriptions summarize my project work. Code and documentation wil
 
 | Project | Work covered |
 | --- | --- |
-| E-commerce data analysis | Exploring orders, products, sellers and customers; joining tables, aggregating data and investigating delivery delays. |
+| E-commerce data exploration — in progress | Loading and inspecting the Olist tables, checking missing values and joining order items with products. Order-level aggregation is under development. |
 | Gaussian mixture models | Implementing the expectation-maximization algorithm on synthetic data and exploring clustering on the Wine dataset. |
 | Driving simulation — in progress | Developing a deep learning project in a driving simulator, with dataset creation as the current focus. |
 
