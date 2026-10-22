@@ -10,16 +10,6 @@ I am seeking a final-year internship in Data Science, Machine Learning or AI, st
 - **Machine learning:** scikit-learn, regression, classification and model evaluation.
 - **Currently learning:** PyTorch and deep learning.
 
-## Selected work
-
-The following descriptions summarize my project work. Code and documentation will be added as the repositories are prepared.
-
-| Project | Work covered |
-| --- | --- |
-| E-commerce data exploration — in progress | Loading and inspecting the Olist tables, checking missing values and joining order items with products. Order-level aggregation is under development. |
-| Gaussian mixture models | Implementing the expectation-maximization algorithm on synthetic data and exploring clustering on the Wine dataset. |
-| Driving simulation — in progress | Developing a deep learning project in a driving simulator, with dataset creation as the current focus. |
-
 ## Interests
 
 Statistical modelling, applied machine learning and data-driven engineering.
