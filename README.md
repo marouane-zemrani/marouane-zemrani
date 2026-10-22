@@ -51,5 +51,3 @@ Research-oriented machine learning implementations
 Opportunities
 
 I'm interested in research internships, academic collaborations, and industrial R&D opportunities in Machine Learning, Data Science, and Artificial Intelligence.
-
-GitHub: marouane-zemrani
