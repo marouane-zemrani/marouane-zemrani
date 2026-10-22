@@ -1,16 +1,25 @@
-## Hi there 👋
+# Marouane Zemrani
 
-<!--
-**marouane-zemrani/marouane-zemrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year engineering student at EMINES, Mohammed VI Polytechnic University (UM6P), specializing in Industrial Data Science.
 
-Here are some ideas to get you started:
+I am seeking a final-year internship in Data Science, Machine Learning or AI, starting in April 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical background
+
+- **Programming and data:** Python, NumPy, pandas and SQL.
+- **Machine learning:** scikit-learn, regression, classification and model evaluation.
+- **Currently learning:** PyTorch and deep learning.
+
+## Selected work
+
+The following descriptions summarize my project work. Code and documentation will be added as the repositories are prepared.
+
+| Project | Work covered |
+| --- | --- |
+| E-commerce data analysis | Exploring orders, products, sellers and customers; joining tables, aggregating data and investigating delivery delays. |
+| Gaussian mixture models | Implementing the expectation-maximization algorithm on synthetic data and exploring clustering on the Wine dataset. |
+| Driving simulation — in progress | Developing a deep learning project in a driving simulator, with dataset creation as the current focus. |
+
+## Interests
+
+Statistical modelling, applied machine learning and data-driven engineering.
