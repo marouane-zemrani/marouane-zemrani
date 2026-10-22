@@ -1,53 +1,97 @@
-Hi, I'm Marouane Zemrani
 
-Final-year Engineering Student | Data Science & Machine Learning | Research-Oriented
+# Marouane Zemrani
 
-I'm a final-year engineering student at EMINES – Mohammed VI Polytechnic University (UM6P), Morocco, specializing in Data Science.
+**Final-Year Engineering Student in Data Science**  
+EMINES – School of Industrial Management  
+Mohammed VI Polytechnic University (UM6P), Morocco
 
-My academic interests lie at the intersection of statistical learning, mathematical modeling, optimization, and deep learning. I enjoy exploring the theoretical foundations of machine learning and translating them into reproducible computational experiments.
+## About
 
-I'm particularly interested in research internships and R&D opportunities, where I can contribute to challenging problems while strengthening my scientific and technical skills.
+I am a final-year engineering student specializing in Data Science at Mohammed VI Polytechnic University (UM6P).
 
-Research Interests
+My academic interests focus on the mathematical and statistical foundations of machine learning, with particular attention to statistical inference, optimization, probabilistic modeling, and deep learning.
 
-Statistical Machine Learning: regression, classification, probabilistic modeling, and model evaluation
+I am interested in understanding learning algorithms from both theoretical and computational perspectives, and in applying rigorous experimental methodologies to real-world problems.
 
-Deep Learning: neural networks, representation learning, and generative models
+I am seeking opportunities to contribute to academic research and industrial R&D projects in machine learning, artificial intelligence, and applied mathematics.
 
-Mathematical Foundations: optimization, probability, statistics, and linear algebra
+## Research Interests
 
-Applied AI: data-driven modeling and scientific applications
+- **Statistical Learning:** Regression, classification, generalization, model selection, and uncertainty quantification
+- **Probabilistic Modeling:** Statistical inference, mixture models, maximum likelihood estimation, and Bayesian methods
+- **Optimization for Machine Learning:** Convex optimization, gradient-based methods, and regularization
+- **Deep Learning:** Neural networks, representation learning, and generative modeling
+- **Applied Machine Learning:** Predictive modeling, model evaluation, and scientific applications
 
-Selected Projects
+## Selected Projects
 
-Server Reliability Analysis
+### [Statistical Reliability Analysis](https://github.com/marouane-zemrani/server-reliability-analysis)
 
-Statistical modeling of server lifetimes using Weibull and exponential distributions, maximum likelihood estimation, bootstrap methods, and goodness-of-fit testing.
+**Statistical inference · Survival analysis · Reliability theory**
 
-E-commerce Intelligence Platform
+A computational study of server reliability using probabilistic lifetime models and statistical inference.
 
-An ongoing data science project exploring e-commerce data processing, feature engineering, and predictive modeling.
+Key methods:
+- Weibull and exponential lifetime modeling
+- Survival functions and hazard rates
+- Maximum likelihood estimation
+- Nonparametric and parametric bootstrap
+- Goodness-of-fit testing
+- Series and parallel system reliability
 
-Technical Skills
+The repository includes a reproducible Python notebook, mathematical explanations, and the original academic project documentation.
 
-Programming: Python, SQL
+### [E-commerce Intelligence Platform](https://github.com/marouane-zemrani/ecommerce-intelligence-platform)
 
-Scientific Computing: NumPy, Pandas, SciPy, Matplotlib
+**Data engineering · Statistical learning · Predictive analytics**
 
-Machine Learning: scikit-learn, PyTorch
+Ongoing project exploring data preparation, feature engineering, and predictive modeling using transactional e-commerce data.
 
-Methods: Statistical inference, regression, classification, cross-validation, optimization, and probabilistic modeling
+## Research and Applied Experience
 
-Currently Exploring
+### Machine Learning Internship — CHRU Nancy, France
 
-Neural networks and generative modeling
+**Clinical outcome prediction using supervised learning**
 
-Language modeling and Transformers
+- Worked on a clinical prediction problem involving postoperative outcomes.
+- Investigated logistic regression and random forest classifiers.
+- Evaluated predictive performance using cross-validation and classification metrics.
+- Examined model sensitivity, specificity, and discrimination.
 
-Advanced statistical learning methods
+## Technical Background
 
-Research-oriented machine learning implementations
+**Programming:** Python, SQL
 
-Opportunities
+**Scientific Computing:** NumPy, SciPy, Pandas, Matplotlib
 
-I'm interested in research internships, academic collaborations, and industrial R&D opportunities in Machine Learning, Data Science, and Artificial Intelligence.
+**Machine Learning:** scikit-learn, PyTorch
+
+**Mathematical Methods:** Probability, statistics, linear algebra, optimization, statistical inference
+
+**Research Tools:** Jupyter Notebook, Git, GitHub
+
+## Academic Background
+
+**Engineering Degree — EMINES, Mohammed VI Polytechnic University**
+
+Specialization: Data Science
+
+Relevant coursework and areas of study:
+- Regression and Classification
+- Statistical Learning
+- Optimization
+- Probability and Statistics
+- Neural Networks and Deep Learning
+- Language Modeling and Transformers
+
+## Research Opportunities
+
+I am interested in research internships and R&D collaborations involving:
+
+- Statistical Machine Learning
+- Deep Learning and Generative Models
+- Optimization and Applied Mathematics
+- Scientific and Data-Driven Modeling
+
+I am particularly interested in projects that combine mathematical foundations, computational experimentation, and practical applications.
+
