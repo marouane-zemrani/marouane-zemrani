@@ -25,7 +25,7 @@ I am currently seeking **research internships and R&D opportunities starting in 
 
 ## Research Experience & Selected Projects
 
-### 1. Clinical Outcome Prediction Using Machine Learning
+### 1. [Clinical Outcome Prediction Using Machine Learning](https://github.com/marouane-zemrani/clinical-outcome-prediction-hpt)
 **CHRU Nancy, France | Machine Learning Research Internship**
 
 **Fields:** Applied Machine Learning, Biostatistics, Clinical Prediction
@@ -59,7 +59,23 @@ A computational study of system reliability using probabilistic lifetime models 
 
 The repository includes a reproducible Python notebook and mathematical explanations.
 
-### 3. [E-commerce Intelligence Platform](https://github.com/marouane-zemrani/ecommerce-intelligence-platform)
+### 3. [Numerical Modeling of Convective and Diffusive Transport in the Lungs](https://github.com/marouane-zemrani/pulmonary-transport-numerical-modeling)
+
+**Fields:** Biomedical Engineering, Fluid Mechanics, Partial Differential Equations, Scientific Computing
+
+Academic group project studying transport phenomena in simplified pulmonary geometries, combining numerical discretization of the two-dimensional Stokes equations with stochastic particle simulations of diffusion. The analysis examined boundary conditions, geometric asymmetry, velocity and concentration fields, and numerical sensitivity.
+
+*Documentation-based repository with the original French academic report.*
+
+### 4. [Solar Thermal System Modeling for Hospital Sterilization](https://github.com/marouane-zemrani/solar-thermal-sterilization-modeling)
+
+**Fields:** Physical Modeling, Heat Transfer, Differential Equations, Numerical Simulation
+
+Academic engineering study of a conceptual solar thermal system for hospital sterilization in Ouarzazate, Morocco. The work combined energy-demand estimation, equipment sizing, coupled thermal balance equations, numerical integration using Euler's method, and preliminary cost analysis.
+
+*Conceptual design study, not an experimentally validated or deployed installation.*
+
+### 5. [E-commerce Intelligence Platform](https://github.com/marouane-zemrani/ecommerce-intelligence-platform)
 
 **Fields:** Applied Data Science, Predictive Modeling
 
